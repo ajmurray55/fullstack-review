@@ -26,9 +26,6 @@ MVP
 - login (/login)
 - settings (/settings)
 
-*ICEBOX*
-<br/>
-- sliding into the dms
 
 ### *file structure*
 
@@ -41,6 +38,7 @@ MVP
         - store
         - reducer
     - components/
+        - Profile.js/.css
         - Header.js /.css
         - Login.js /.css
         - Account.js /.css
